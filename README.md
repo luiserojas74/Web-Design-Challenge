@@ -1,4 +1,5 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
+[Web Visualization Dashboard ](index.html).
 
 ## Background
 
