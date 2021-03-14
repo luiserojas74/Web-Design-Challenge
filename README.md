@@ -22,7 +22,7 @@
 ## **_The original text of the homework assignment:_** 
 
 # Web Design Homework - Web Visualization Dashboard (Latitude)
-[Web Visualization Dashboard ](index.html)
+
 
 ## Background
 
