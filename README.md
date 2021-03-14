@@ -2,7 +2,7 @@
    - This is my personal project for unit 11(Web) of [Data Visualization and Analytics](https://bootcamp.uncc.edu/data/)
    - I built a dashboard to visualize the lattitude dependence of the global weather. The dataset and figures are fed from another project(i.e., [homework project](https://github.com/luiserojas74/Python-API) for unit 06(Python-APIs)), in which  the weather for more than 500  randomly chosen cities were collected from the [openweathermap API](https://openweathermap.org/api) for current  date. For more details, see [here](#the-original-text-of-the-homework-assignment).
    - A snapshot of the app: 
-<img src="Images/landingResize.png" width="600" height="400">
+<img src="Images/app.png" width="600" height="400">
 
    - The web-link for the app of this project is [here](https://luiserojas74.github.io/Web-Design-Challenge/).
    - Main tools used in this project: html, css, [Bootstrap](https://getbootstrap.com/).
