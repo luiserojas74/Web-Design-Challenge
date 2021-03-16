@@ -4,7 +4,7 @@
    - Here is a snapshot of the app: 
 <img src="Images/app.png" width="600" height="400">
 
-   - The link for the app of this project is [here](http://luiserojas.com/Web-Design-Challenge/).
+   - The link for the app of this project is [here](https://luiserojas74.github.io/Web-Design-Challenge/).
    - The main tools I used on this project are : html, css, [Bootstrap](https://getbootstrap.com/).
    
 ## Notes
