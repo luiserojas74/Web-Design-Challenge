@@ -1,6 +1,6 @@
 ## About
    - This is the project I developed for unit 11 of the Boot Camp: [Data Visualization and Analytics](https://bootcamp.uncc.edu/data/)
-   - I created a dashboard to visualize the lattitude dependence of the global weather. For more details, see [here](#the-original-text-of-the-homework-assignment).
+   - I created a dashboard to visualize the latitude dependence of the global weather. For more details, see [here](#the-original-text-of-the-homework-assignment).
    - Here is a snapshot of the app: 
 <img src="Images/app.png" width="600" height="400">
 
